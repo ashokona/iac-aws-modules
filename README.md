@@ -1,2 +1,2 @@
 # iac-aws-modules
-Terraform
+Terraform modules for AWS
